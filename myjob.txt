@@ -6,15 +6,18 @@ Advanced Personnel and Solutions Co., Ltd.
     หน้าที่รับผิดชอบ
 
 -Develop program with ASP.Net or VB.Net or C#.Net include writing store procedure.
+-พัฒนาโปรแกรมด้วย ASP.Net หรือ VB.Net หรือ C#.Net รวมถึงเขียนขั้นตอนการจัดเก็บ
 -Use OOP concepts and UML diagrams based on company standards.
+-ใช้แนวคิด OOP และไดอะแกรม UML ตามมาตรฐานของบริษัท
 -Build and deploy application.
--Work mostly independently within task guidelines established by management.
--Perform work based on defined process and provide feedback on process improvements as appropriate.
-
+-สร้างและปรับใช้แอปพลิเคชัน
 
     Qualifications
     คุณสมบัติที่ต้องการ
 
 -Bachelor's or Master's degree in Computer Science / Computer Engineering / Information Technology or related fields.
+-วุฒิปริญญาตรีหรือโท สาขาวิทยาการคอมพิวเตอร์ / วิศวกรรมคอมพิวเตอร์ / เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง
 -Experience 1-10 years experience in related fields .
+-ประสบการณ์ 1-10 ปี ในสายงานที่เกี่ยวข้อง
 -Object-Oriented Programming (OOP)
+-การเขียนโปรแกรมเชิงวัตถุ (OOP)
