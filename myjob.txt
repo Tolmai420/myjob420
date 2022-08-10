@@ -1,30 +1,20 @@
 Java Programmer
-ตำแหน่ง จาวาโปรแกรมเมอร์
+ จาวาโปรแกรมเมอร์
 Advanced Personnel and Solutions Co., Ltd.
 
     Responsibilities
+    หน้าที่รับผิดชอบ
 
 -Develop program with ASP.Net or VB.Net or C#.Net include writing store procedure.
 -Use OOP concepts and UML diagrams based on company standards.
 -Build and deploy application.
 -Work mostly independently within task guidelines established by management.
 -Perform work based on defined process and provide feedback on process improvements as appropriate.
--Co-operate with team leader in estimation effort, developing plan/schedule and performing tasks according to the plan.
--System Design, Database design, Architecture Design in Microsoft Platform Project.
--Write system specification and give command to programmers.
--Provide application’s consult service, development technique, troubleshooting, training.
--Analyze users’ need and provide solution for users.
--Software Testing, Test Case Generating.
--Maintain, support application to customers.
--Define, control standard in software development process (coding, designing, document).
+
 
     Qualifications
+    คุณสมบัติที่ต้องการ
 
 -Bachelor's or Master's degree in Computer Science / Computer Engineering / Information Technology or related fields.
 -Experience 1-10 years experience in related fields .
 -Object-Oriented Programming (OOP)
--VB.NET
--C#.Net
--ASP.NET
--PROCEDURE LANGUAGE SQL (PL/SQL)
--UML (Unified Modeling Language)
